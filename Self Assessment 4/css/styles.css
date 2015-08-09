@@ -1,0 +1,18 @@
+#four {
+    background-color: #BF787E;
+}
+#three {
+    background-color: #590A18;
+}
+#two {
+    background-color: #A62648;
+}
+#one {
+    background-color: #590A18;
+}
+#zero {
+    background-color: #D9BC9A;
+}
+#three, #one {
+    color: #ffffff;
+}
