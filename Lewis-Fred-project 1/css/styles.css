@@ -1,0 +1,41 @@
+body {
+    background-color:#A5A660 ;
+    width: Auto;
+    height: auto;
+    padding: 25px;
+    border: 5px blue;
+    margin: 25px;
+    border-style: outset;
+
+}
+
+h1, h2, h3,#gallery {
+    background-color: #ffffff;
+    background-position: center;
+    width: 150px;
+    padding: 25px;
+    border: 25px;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius: 25px;
+    opacity: 0.5;
+    text-align: center;
+
+
+
+}
+
+p {
+    background-color: #ffffff;
+    width: auto;
+    padding: 25px;
+    border: 25px;
+    margin: 25px;
+    border-radius: 25px;
+    opacity: 0.5;
+
+}
+#mountains {
+    margin-left:auto;
+    margin-right:auto;
+}
