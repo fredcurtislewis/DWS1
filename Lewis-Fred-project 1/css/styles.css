@@ -1,6 +1,6 @@
 /* body*/
 body {
-    background-color:#A5A660 ;
+    background-color: #A5A660 ;
     width: Auto;
     height: 2400px;
     padding: 25px;
@@ -8,6 +8,7 @@ body {
     margin: 25px;
     border-style: outset;
     font-family: "Times New Roman", Times, serif;
+
 
 }
 /* headings */
@@ -31,6 +32,11 @@ h1, h2,h3,#gallery {
 
 
 /* content */
+#content3 {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
 p {
     background-color: #ffffff;
     width: auto;
@@ -78,7 +84,7 @@ ul {
 }
 /* footer */
 footer {
-    background-color:#A5A660;
+
     color:#000000;
     padding:50px;
     clear:both;
