@@ -21,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Lewis-Fred-project 3/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.1984127">
+              <caret line="10" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#p#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -34,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Lewis-Fred-project 3/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28846154">
-              <caret line="130" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="216" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="49" selection-start-line="0" selection-start-column="0" selection-end-line="218" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -60,8 +60,8 @@
         <option value="$PROJECT_DIR$/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
-        <option value="$PROJECT_DIR$/../Lewis-Fred-project 3/css/styles.css" />
         <option value="$PROJECT_DIR$/../Lewis-Fred-project 3/index.html" />
+        <option value="$PROJECT_DIR$/../Lewis-Fred-project 3/css/styles.css" />
       </list>
     </option>
   </component>
@@ -333,22 +333,22 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Lewis-Fred-project 3/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="49" selection-start-line="0" selection-start-column="0" selection-end-line="218" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Lewis-Fred-project 3/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.1984127">
+          <caret line="10" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#p#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Lewis-Fred-project 3/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28846154">
-          <caret line="130" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="216" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
