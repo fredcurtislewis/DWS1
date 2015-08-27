@@ -1,12 +1,15 @@
 
 #header {
-    list-style-type: none;
+    list-style-type: square;
     margin: auto;
     text-align: center;
     font-family: "Times New Roman", Times, serif;
     font-weight: bold;
     font-style: italic;
-    display: inline;
+    display: inline-block;
+    float:top;
+    width:100%;
+    clear:both;
 
 
 }
